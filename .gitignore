@@ -1,0 +1,16 @@
+# data and large artefacts (not redistributable / too large for git)
+data/
+cache/
+runs/
+*.pt
+*.pth
+*.npy
+*.npz
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# os
+.DS_Store
+Thumbs.db

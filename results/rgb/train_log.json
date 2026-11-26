@@ -1,0 +1,29 @@
+{
+ "args": {
+  "name": "rgb",
+  "seed": 0,
+  "iters": 1500,
+  "bs": 8,
+  "crop": 384,
+  "lr": 0.0003,
+  "noise": 0,
+  "paired": 1,
+  "aug": 1,
+  "seg_w": 1.0,
+  "holdout": "",
+  "evals": 1,
+  "workers": 2
+ },
+ "log": [
+  {
+   "iter": 1500,
+   "loss": 1.193528355984045,
+   "val_auc": 0.7966944369793065,
+   "time": 14408.429394721985
+  }
+ ],
+ "best_val_auc": 0.7966944369793065,
+ "train_docs": 2186,
+ "val_docs": 61,
+ "train_time_s": 14408.56660604477
+}

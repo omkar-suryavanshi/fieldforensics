@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code or the results, please cite the paper."
+title: "Localize to Detect: Full-Resolution Deep Forensics and Compression Cues for GPT-Image-2 Field Forgeries in Receipts and Forms"
+authors:
+  - family-names: Suryavanshi
+    given-names: Omkar
+    affiliation: D. Y. Patil International University
+date-released: 2026-11-26
+doi: 10.5281/zenodo.24551852
+license: MIT
+type: software
+preferred-citation:
+  type: article
+  title: "Localize to Detect: Full-Resolution Deep Forensics and Compression Cues for GPT-Image-2 Field Forgeries in Receipts and Forms"
+  authors:
+    - family-names: Suryavanshi
+      given-names: Omkar
+  year: 2026
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.24551852
